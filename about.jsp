@@ -1,7 +1,7 @@
 <%-- 
     Document   : about.jsp
-    Created on : 2 Jul, 2019, 1:50:26 PM
-    Author     : sandipanb
+    Created on : 2 Jul, 2020, 1:50:26 PM
+    Author     : Mahuya
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import=" java.sql.*"%>

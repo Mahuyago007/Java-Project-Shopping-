@@ -1,1 +1,1 @@
-A Project on Java 
+A small shop created in Javascript
